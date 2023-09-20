@@ -20,6 +20,9 @@ Label the task
 Assign it to the member
 Save the changes.
 
+![image](https://github.com/suganyaanbalagan123/Task-Allocation-with-Jenkins-and-CI-CD-Pipelines/assets/133192593/8100b0d6-b066-4d70-94dc-6fc20ebc03a3)
+
+
 Task 2: Describe how to assign the task to a developer and communicate the requirements.
 
 1.create a issue in the github
